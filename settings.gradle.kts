@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "toastum"
 include(":app")
- 
+include(":toastum")

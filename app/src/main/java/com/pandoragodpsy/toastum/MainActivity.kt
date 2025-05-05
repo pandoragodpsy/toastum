@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun init() {
         binding.btnShowToast.setOnClickListener {
-//            Toastum.instance.showToastum(this, "Toastum");
+            Toastum.instance.showToastum(this, "Toastum");
         }
     }
 }
